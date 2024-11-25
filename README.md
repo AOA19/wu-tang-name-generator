@@ -2,7 +2,7 @@
 
 This application generates a personalized Wu-Tang Clan name for users based on their answers to a short survey. By answering five fun questions, users receive a unique, randomly generated name.
 
-**Project Link**:
+**Project Link**: https://wu-tang-name-gen.netlify.app/
 
 ## Features
 - **Survey Interaction:** Users complete a set of 5 questions to provide input for their name generation.
